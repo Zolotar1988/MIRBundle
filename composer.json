@@ -11,7 +11,7 @@
     ],
     
     "autoload": {
-        "psr-4": { "Olabs\\MIRBundle\\OlabsMIRBundle": "" }
+        "psr-4": { "Olabs\\MIRBundle\\OlabsMIRBundle\\": "" }
     },
     
     "scripts": {
