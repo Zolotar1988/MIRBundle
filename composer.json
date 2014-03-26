@@ -1,12 +1,12 @@
 {
-    "name": "olabs/mobile-image-resizer",
+    "name": "oylabs/mobile-image-resizer",
     "license": "MIT",
     "type": "project",
     "description": "Mobile Image Resize",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tereshvti/oy-image-bundle.git "
+            "url": "https://github.com/Zolotar1988/MIRBundle.git"
         }
     ],
     "scripts": {
