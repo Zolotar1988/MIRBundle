@@ -16,7 +16,9 @@
         "psr-0": {"Olabs": "src/"}
     },
 
-    
+    "config": {
+        "vendor-dir": "vendor"
+    },
     "repositories": [
         {
             "type": "vcs",
