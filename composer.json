@@ -13,12 +13,9 @@
     },
 
     "autoload": {
-        "psr-0": {"Olabs\\MIRBundle": "MIRBundle"}
+        "psr-0": {"Olabs\\MIRBundle": ""}
     },
 
-    "config": {
-        "vendor-dir": "MIRBundle"
-    },
     "repositories": [
         {
             "type": "vcs",
