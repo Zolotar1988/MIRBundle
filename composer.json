@@ -12,9 +12,11 @@
         "jms/serializer-bundle": "dev-master"
     },
 
+    {
     "autoload": {
-        "psr-0": { "Olabs\\Bundle\\MIRBundle": "" }
-    },
+         "psr-4": { "Olabs\\": "src/" }
+    }
+}
     "target-dir": "Olabs/Bundle/MIRBundle",
     "repositories": [
         {
