@@ -16,7 +16,6 @@
          "psr-4": { "Olabs\\": "src/" }
     },
     
-    "target-dir": "Olabs/Bundle/MIRBundle",
     "repositories": [
         {
             "type": "vcs",
