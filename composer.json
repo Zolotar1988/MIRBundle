@@ -1,5 +1,5 @@
 {
-    "name": "oylabs/mobile-image-resizer",
+    "name": "oylabs/image-resizer",
     "description": "Mobile Image Resizer",
     "keywords": ["mobile", "resize", "image"],
     "type": "symfony-bundle",
