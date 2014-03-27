@@ -12,13 +12,6 @@
         "jms/serializer-bundle": "dev-master"
     },
 
- "autoload": {
-        "psr-0": {"Olabs": "src/"}
-    },
-
-    "config": {
-        "vendor-dir": "src"
-    },
     "repositories": [
         {
             "type": "vcs",
