@@ -12,8 +12,10 @@
         "jms/serializer-bundle": "dev-master"
     },
 
-    "autoload": {
-        "psr-0": { "Olabs": "src/" }
+"autoload": {
+        "psr-0": {
+            "": "src/"
+        }
     },
 
     
