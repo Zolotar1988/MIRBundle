@@ -13,8 +13,9 @@
     },
 
     "autoload": {
-         "psr-4": { "Olabs\\": "src/" }
+        "psr-0": { "Olabs": "src/" }
     },
+
     
     "repositories": [
         {
